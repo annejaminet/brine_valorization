@@ -1,0 +1,1 @@
+This file contains the data processing for the Major Ions Dataset, an overview of the geochemistry of brackish groundwater across the United States and its territories. The data processing workflow follows the one outlined by the [USGS](https://pubs.usgs.gov/pp/1833/pp1833.pdf).
